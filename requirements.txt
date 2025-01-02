@@ -1,0 +1,17 @@
+gradio
+agentql
+python-dotenv
+playwright
+asyncio
+
+langchain
+langchain
+langchain-anthropic
+
+gtts
+
+transformers
+torch
+tensorflow-macos
+tensorflow-metal
+tf-keras
